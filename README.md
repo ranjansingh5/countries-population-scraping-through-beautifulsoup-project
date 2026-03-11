@@ -7,6 +7,17 @@ The script uses Requests and BeautifulSoup to collect data and Pandas to organiz
 
 ---
 
+## 🔗 Table of Contents
+
+- [Data Source](data-source)
+- [Feature](feature)
+- [Technologies Used](technologies-used)
+- [Project Structure](project-structure)
+- [How the Script Works](how-the-script-works)
+- [Author](author)
+
+---
+
 ## 🌐 Data Source
 
 Website used in this project: https://www.worldometers.info/geography/countries-of-the-world/
