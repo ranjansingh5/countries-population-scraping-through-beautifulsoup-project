@@ -1,4 +1,4 @@
-# 🌍 Countries Population Scraper – Worldometer
+# 🌍 Countries Population Scraper – Worldometer (Python + BeautifulSoup)
 ## 📌 Project Overview
 
 This Python project scrapes the list of countries, their population, and region from the Worldometer website and stores the data in a structured CSV file.
